@@ -1,2 +1,2 @@
-# gdatatype
-Golang Data Type Examples 
+# Golang Data Type Examples
+
