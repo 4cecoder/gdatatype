@@ -12,7 +12,7 @@ return a*a, a*a*a }
 
 func main(){
 // execute test return of a tuple
-square, cube := powerSieries(3)
+square, cube := powerSeries(3)
 fmt.Println("Square ", square, "Cube", cube)
       }
 ```
