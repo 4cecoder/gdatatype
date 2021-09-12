@@ -1,4 +1,4 @@
-# Golang Data Type Examples
+# GoLang Data Type Examples
 
 ### Data Structures 
 
