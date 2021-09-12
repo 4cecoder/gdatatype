@@ -16,7 +16,7 @@ square, cube = powerSieries(3)
 fmt.Println"Swuare ", square, "Cube", cube)
 ```
 
-- data structure that groups data
+### data structure that groups data
 - typically immutable sequential collections
 
 - the element has related fields of different datatypes.
