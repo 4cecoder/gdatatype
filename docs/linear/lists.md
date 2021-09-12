@@ -32,7 +32,7 @@ func main() {
 ### Data items 
    - within a list 
         - not required to be contiguous (in sequence)
-         - in memory or disk
+        - in memory or disk
 
 Linked lists were proposed by Allen Newll, Cliff Shaw, and Herbert A. Simon at RAND Corp.    
 
