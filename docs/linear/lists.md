@@ -22,9 +22,8 @@ func main() {
 ## A list is a sequence of elements.
 
 ### Each element can be connected to another 
-    - with a link
-        - in a forward or backward direction
 
+- with a link in a forward or backward direction
 - The element can have other payload properties
 - Lists are a basic type of container
 - They have variable length
