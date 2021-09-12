@@ -7,7 +7,7 @@
 package main
 import("fmt")
 
-func powerSeries*a int) (int,int) {
+func powerSeries(a int) (int,int) {
 return a*a, a*a*a }
 
 func main(){
