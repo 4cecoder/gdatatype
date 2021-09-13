@@ -1,7 +1,7 @@
 # MultiD Arrays
 
 
-### general form of a multidimensional array declaration −
+### general form of a multidimensional array declaration:
 ```go
 var variable_name [SIZE1][SIZE2]...[SIZEN] variable_type
 
