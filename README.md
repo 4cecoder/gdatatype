@@ -1,6 +1,6 @@
 # Go Data Types
 
-### Data Structures 
+### Data Structure Catagories
 
 | Linear        | Non-Linear    | Homogeneous   | Heterogeneous  | Dynamic        |
 | ------------- | ------------- | ------------- | -------------  | -------------  |
