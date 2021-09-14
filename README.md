@@ -1,5 +1,7 @@
 # Go Data Types
 
+[Primitive Types Reference](https://devhints.io/go)
+
 ### Data Structure Catagories
 
 | Linear        | Non-Linear    | Homogeneous   | Heterogeneous  | Dynamic        |
