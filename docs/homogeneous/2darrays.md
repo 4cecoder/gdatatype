@@ -13,7 +13,7 @@
 
 ## A two-dimensional array is, in essence, a list of one-dimensional arrays. 
  
- ## To declare a two-dimensional integer array of size [x, y], you would write something as follows:
+# To declare a two-dimensional integer array of size [x, y], you would write something as follows:
 ```go
 var arrayName [ x ][ y ] variable_type
 ```
