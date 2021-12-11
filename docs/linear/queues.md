@@ -18,7 +18,7 @@
 - The end at which elements are removed
 
 
-Analogously to the words used when people line up to wait for goods or services.
+### Analogously to the words used when people line up to wait for goods or services.
 
 enqueue 
 - The operation of adding an element to the rear of the queue 
