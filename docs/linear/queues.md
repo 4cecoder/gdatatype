@@ -7,7 +7,7 @@
  can be modified by the addition of entities 
  - at one end of the sequence the removal of entities from the other end of the sequence. 
   
-  ##By convention: 
+  ## By convention: 
    
      
 ### Back/Tail/Rear Of the Queue >>
