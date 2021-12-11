@@ -4,7 +4,7 @@
 - is a collection of entities
     - that are maintained in a sequence
 
- can be modified by the addition of entities 
+ # Modification or Addition of entities 
  - at one end of the sequence the removal of entities from the other end of the sequence. 
   
 ## By convention: 
@@ -26,7 +26,7 @@ enqueue
 dequeue
 - The operation of removing an element from the front 
  
- ### Other operations may also be allowed:
+ ## Other operations may also be allowed:
  
  Often including a peek or front operation 
 - that returns the value of the next element 
