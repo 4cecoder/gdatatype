@@ -10,11 +10,11 @@
 ## By convention: 
    
      
-### Back/Tail/Rear Of the Queue >>
+### Back/Tail/Rear of the Queue >>
 
 - The end of the sequence at which elements are added
   
-### Head/Front Of the Queue >>
+### Head/Front of the Queue >>
 - The end at which elements are removed
 
 
